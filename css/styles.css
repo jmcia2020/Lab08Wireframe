@@ -3,7 +3,11 @@ main{
 }
 
 nav{
-  display:inline-block
+  padding: 0px 30px 30px 30px; 
+  display:inline-block;
+  background-color: #dddddd;
+  height: 70px;  
+  text-align: center;
 }
 
 
@@ -33,7 +37,7 @@ p{
 }
 
 footer{
-  display: block;
-  background-color: #dddddd,
+  display:
+  background-color: #dddddd;
   height: 150px;
 }
